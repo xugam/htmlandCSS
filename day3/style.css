@@ -1,0 +1,29 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Ubuntu+Sans:ital,wght@0,100..800;1,100..800&display=swap'); */
+
+.mainBox{
+    background-color: red;
+    display: flex;
+    column-gap: 50px;
+    height: 100%;
+    justify-content: flex-end;
+    flex-direction: row;
+    align-items: flex-end;
+}
+
+.mainBox .box1{
+    background-color: blue;
+    width: 100px;
+    height: 100px;
+}
+
+.mainBox .box2{
+    background-color: green;
+    width: 100px;
+    height: 100px;
+}
+
+.mainBox .box3{
+    background-color: yellow;
+    width: 100px;
+    height: 100px;
+}
